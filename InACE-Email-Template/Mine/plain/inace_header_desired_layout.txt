@@ -1,0 +1,54 @@
+<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+                <tr align="center" style="height: 100px">
+
+                  <td style="width: 20px; background-color:#2a4060">
+
+                  </td>
+
+                  <td class="col banner" style="vertical-align: bottom; text-align: right;">
+                    <span
+                      style="font-size: 19px; font-weight: bold; color:#2a4060; padding-left: 20px; height: auto; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Newsletter</span>
+                  </td>
+
+                  <td class="col banner" style="text-align: right;" valign="bottom">
+                    <img
+                      src="https://inace.consulting/wp-content/uploads/2025/12/cropped-104272_InACE-Pharma-Consulting_Flat_RT_R_01-scaled-e1767174323685-1.png"
+                      alt="inace logo" style="max-width: 150px; ">
+                  </td>
+
+                  <!-- <td class="col banner" style="vertical-align: bottom;padding-left: 20px; text-align: left;">
+                    <span class="insights" style="font-size: 50px; font-weight: bold; color:#2a4060; ">Insights</span>
+                  </td> -->
+                </tr>
+
+                <tr align="center" style="height: 100px">
+
+                  <td style="width: 20px; background-color:#2a4060">
+
+                  </td>
+
+                  <td class="col banner" style="vertical-align: center; text-align: right;">
+                    <span
+                      style="font-size: 19px; font-weight: bold; color:#2a4060; padding-left: 20px; height: auto; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">April
+                      2026</span>
+                  </td>
+
+                  <td class="col banner" style="vertical-align: center; text-align: right;">
+                    <span class="insights" style="font-size: 40px; font-weight: bold; color:#2a4060; ">Insights</span>
+                  </td>
+
+                  <!-- <td class="col banner" style="vertical-align: center; text-align: left;">
+                    <span
+                      style="font-size: 19px; font-weight: bold; color:#2a4060; padding-left: 20px; height: auto; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Newsletter</span>
+                  </td> -->
+                </tr>
+
+                <tr>
+                  <td style="border: 1px black;">
+
+
+                  </td>
+                </tr>
+
+              </table>
