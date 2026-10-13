@@ -1,0 +1,52 @@
+Kumaravel Rajan
+Location: Frankfurt ; Email: kumaravel.rajan7@gmail.com 2
+Tel: +49 1573 1143 682 2 ; LinkedIn: kumaravel-rajan 2
+Github: kumaravelrajan 2 ; Languages: English - C1, German - ca. B2
+Visa - Chancenkarte (Opportunity card) - Germany
+
+Education
+MS in Computer Science
+TU Munich, Germany, (2021 - 2025)
+◦ Focus: Software engineering and testing with projects in data analysis, web dev, and distributed systems.
+BS in Computer Science
+SRM Institute of Science & Tech, India, (2014 - 2018)
+
+Relevant Skills
+Programming Languages: Typescript/Javascript, Python, C++
+Technologies:
+◦ Software Testing - Jest (JS), unittest (Python)
+◦ Web development - React, Node.js, Express.js, PostgreSQL, REST API.
+◦ Version control & workflows - Git, code reviews
+◦ Modern development tools - VScode
+◦ AI coding harness: Opencode
+
+Experience
+Werkstudent Security Analyst
+Siemens AG, Germany, (2021 - 2025)
+◦ Automated data collection by writing JS web parsers with a comprehensive, structured test suite using Jest.
+Caused a 27% uptick in notifications created.
+◦ Handled customer support to directly with clients. Understood how better to service their needs
+and worked with backend engineers to suitably modify APIs.
+C++ Software Developer
+Siemens AG, India, (2018 - 2020)
+◦ Responsible for system critical bug fixes in a mature C++ codebase for Siemens Comfort HMI Panels.
+◦ Handled direct calls with clients in 4 different countries to better understand their problems and
+fix the reported bugs.
+◦ Introduced TLS in the previously plaintext communication between Comfort panels and PLCs.
+◦ Built an inventory management system using React and Node.js along with an interactive dashboard.
+
+Projects
+Modern Customer support application
+Imero GmbH
+◦ Built a customer support tool with chat functionality from scratch using Node.js and React for Imero’s
+support team.
+◦ Tested using Jest and Postman.
+The Pegasus Effect 2
+TU Munich
+◦ Collected, cleaned, and analyzed open-source social media data on Pegasus Spyware victims using Python.
+Data was analyzed and visualized using Pandas and Matplotlib.
+ChordPlusPlus 2
+TU Munich
+◦ Built a fault-tolerant, distributed hash table in modern C++. Tested using GTest.
+
+
