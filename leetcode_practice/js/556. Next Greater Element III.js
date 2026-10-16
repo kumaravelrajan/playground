@@ -37,7 +37,7 @@ var nextGreaterElement = function(n) {
     // Switch pivot with minInd
     let temp = list[pivot];
     list[pivot] = list[minInd];
-    list[minInd] = temp;
+    list[minInd] = temp ;
 
     let tail = list.slice(pivot + 1);
     tail.sort((a, b) => a - b);
