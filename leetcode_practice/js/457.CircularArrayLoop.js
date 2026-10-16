@@ -19,7 +19,7 @@ var circularArrayLoop = function(nums) {
         }
     }
     for (let i = 0; i < targets.length; i++){
-        let visitedIndices = [];
+        let visitedIndices = Array(targets.length).fill(false);
         visitedIndices[i] = true;
 
         let next = targets[i];
@@ -31,7 +31,7 @@ var circularArrayLoop = function(nums) {
             negMoves++;
         }
 
-        while(i !== next || visitedIndices[next] === false){
+        while(i !== next && visitedIndices[next] === false){
 
             if (nums[next] > 0){
                 posMoves++;
@@ -52,4 +52,4 @@ var circularArrayLoop = function(nums) {
     return false;
 };
 
-console.log(circularArrayLoop([-1,-2,-3,-4,-5,6]));
+console.log(circularArrayLoop([1,-1,5,1,4]));
