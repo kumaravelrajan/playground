@@ -20,6 +20,7 @@ var findDisappearedNumbers = function(nums, lower, upper) {
         i++;
     }
 
+    // 
     if (i === nums.length){
         ans.push([cLower, upper]);
     }
