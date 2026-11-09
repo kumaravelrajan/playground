@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube DE-EN Subtitle Translator",
+  "version": "1.0.0",
+  "description": "Hover over German subtitles to pause the video and see the English translation.",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*", "https://youtube.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
